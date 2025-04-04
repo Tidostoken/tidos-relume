@@ -1,5 +1,5 @@
 import React from "react";
-import Index from "./home/index";
+import Page from "./index";
 
 function App() {
   return <Index />;
